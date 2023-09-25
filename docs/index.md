@@ -2,5 +2,8 @@
 
 A *fast* and elegant way to control your Sonos System.
 
-[Privacy Policy](https://nehayward.github.io/Scenecuts/pages/help)
+[Help](https://clic.dance/pages/help)
 
+[Privacy Policy](https://clic.dance/pages/privacy_policy)
+
+[Terms](https://clic.dance/pages/terms)
