@@ -1,5 +1,12 @@
 # Privacy Policy
 
+## Legal Use
+
+Clic is not affiliated with Sonos Inc. nor is it an official Sonos app. Sonos is trademarked by Sonos Inc.
+
+This is not the official Sonos App
+
+
 ## Plain English
 
 Clic never transmits your identifiable information anywhere.

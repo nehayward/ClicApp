@@ -6,6 +6,13 @@ If you subscribe to Clic, you can use it, unfettered, until that subscription pe
 
 Please read these Terms of Use carefully before using Our Service.
 
+## Legal Use
+
+Clic is not affiliated with Sonos Inc. nor is it an official Sonos app. Sonos is trademarked by Sonos Inc.
+
+This is not the official Sonos App
+
+
 ## Interpretation and Definitions
 
 ### Interpretation
