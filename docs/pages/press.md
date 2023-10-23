@@ -32,4 +32,18 @@ Nick Hayward is a developer based in Seattle, he's been making apps for Apple's 
 
 # Images
 
-![Phone Main](https://clic.dance/assets/phone_main_2.png)
+![Phone Main](https://clic.dance/assets/phone_main.png)
+
+![Phone Main 2](https://clic.dance/assets/phone_main_2.png)
+
+![Phone Player](https://clic.dance/assets/phone_player.png)
+
+![Phone Queue](https://clic.dance/assets/phone_queue.png)
+
+![Phone Search](https://clic.dance/assets/phone_search.png)
+
+![Phone Search 2](https://clic.dance/assets/phone_search_2.png)
+
+![Watch Main](https://clic.dance/assets/watch_main.png)
+
+![Watch Player](https://clic.dance/assets/watch_player.png)
