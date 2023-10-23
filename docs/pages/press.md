@@ -32,4 +32,4 @@ Website: https://clic.dance
 
 # Images
 
-![Phone Main](https://clic.dance/phone_main_2.png)
+![Phone Main](https://clic.dance/assets/phone_main_2.png)
