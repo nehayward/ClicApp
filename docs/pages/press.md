@@ -26,9 +26,9 @@ Nick Hayward is a developer based in Seattle, he's been making apps for Apple's 
 
 # Links
 
-AppStore: https://app.clic.dance
-TestFlight: https://testflight.clic.dance
-Website: https://clic.dance
+- AppStore: https://app.clic.dance
+- TestFlight: https://testflight.clic.dance
+- Website: https://clic.dance
 
 # Images
 
